@@ -1,0 +1,62 @@
+body {
+    margin: 50px auto;
+    width: 350px; /* Increased width */
+    font-family: Arial, sans-serif;
+  }
+  
+  h3 {
+    text-align: center;
+    color: #333;
+    font-size: 24px; /* Increased font size */
+  }
+  
+  .form-wrapper {
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 10px; /* Increased border radius */
+    padding: 30px; /* Increased padding */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .input-group {
+    margin-bottom: 30px; /* Increased margin bottom */
+  }
+  
+  .input-group-addon {
+    background-color: #337ab7;
+    color: #fff;
+    border: none;
+  }
+  
+  .input-group-addon i {
+    padding: 15px; /* Increased padding */
+  }
+  
+  .form-control {
+    border-radius: 10px; /* Increased border radius */
+    font-size: 16px; /* Increased font size */
+    padding: 15px; /* Increased padding */
+  }
+  
+  .alert {
+    margin-top: 20px; /* Increased margin top */
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    border-radius: 10px; /* Increased border radius */
+    padding: 15px; /* Increased padding */
+  }
+  
+  .btn-group {
+    margin-top: 30px; /* Increased margin top */
+  }
+  
+  .btn-success, .btn-info {
+    width: 100%;
+    font-size: 18px; /* Increased font size */
+  }
+  
+  .btn-info {
+    margin-top: 15px; /* Increased margin top */
+  }
+  
